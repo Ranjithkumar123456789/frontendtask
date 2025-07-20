@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "antd": "^5.26.6",
+    "react-hook-form": "^7.60.0"
+  }
+}
